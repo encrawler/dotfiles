@@ -1,0 +1,8 @@
+{
+    "clangd.path": "/usr/bin/clangd",
+    "clangd.inlayHints.enable": false,
+    "eslint.packageManager": "yarn",
+    "eslint.nodePath": ".yarn/sdks",
+    "workspace.workspaceFolderCheckCwd": false,
+    "tsserver.tsdk": ".yarn/sdks/typescript/lib"
+}
